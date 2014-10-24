@@ -1,4 +1,4 @@
-Mining-the-Wiki-Data
+Search Engine
 ====================
 
-Data mining 2014 wikipedia articles, classify the documents for people and non-people using semi-supervised learning in Python
+Crawling web sites, indexing pages by team frequence, quering keywords by pageRank algorithm. 
